@@ -65,4 +65,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 If you have any questions or would like to connect regarding this project, please reach out via email at hirwanitekeshwar@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/tekeshwar-hirwani).
 
+## 🙌 Acknowledgements
+A heartfelt thank you to [HowToElectronics](https://how2electronics.com) for their invaluable resources and guidance. Their dedication to spreading knowledge has been a beacon of inspiration for this project.
+
 🙏 Thank you for your interest in the Driver Health Monitoring System!
