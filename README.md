@@ -20,7 +20,7 @@ The Driver Health Monitoring System is a comprehensive solution designed to enha
 - Adafruit MLX90614 IR Thermometer
 - HC-05 Bluetooth Module
 - Jumper Wires
-- (Any other hardware components you’ve used for the project)
+- (Any other hardware miscellaneous components for the project)
 
 ## 📋 Prerequisites
 - Arduino IDE
