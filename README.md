@@ -59,8 +59,6 @@ For more information and to access the machine learning model, please visit the 
 ## 🤝 Contributing
 Feel free to fork this repository, and submit a pull request if you'd like to contribute to the development of the Driver Health Monitoring System.
 
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 If you have any questions or would like to connect regarding this project, please reach out via email at hirwanitekeshwar@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/tekeshwar-hirwani).
